@@ -1,0 +1,6 @@
+{
+  "name": "Heart Disease Prediction using Machine Learning",
+  "description": "A college-level Data Science project demonstrating machine learning and deep learning algorithms for heart disease prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
